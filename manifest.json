@@ -1,0 +1,17 @@
+{
+  "name": "SAFETY360 Construction Safety",
+  "short_name": "SAFETY360",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#123b32",
+  "description": "Construction Safety Management mobile prototype",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
